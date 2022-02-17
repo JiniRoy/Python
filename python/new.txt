@@ -1,0 +1,4 @@
+Newline (frequently called line ending
+end of line (EOL), next line (NEL) or line break).
+It is a control character or sequence of control characters in a character encoding specification.
+(e.g., ASCII, EBCDIC) that is used to signify the end of a line of text and the start of a new one.

@@ -1,0 +1,6 @@
+f= open(r'C:\Users\User\Desktop\python\test.txt','r')
+both= open(r'C:\Users\User\Desktop\python\combine.txt','a')
+both.write(f.read())
+both.close()
+both= open(r'C:\Users\User\Desktop\python\combine.txt','r')
+print(both.read())

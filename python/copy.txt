@@ -1,0 +1,5 @@
+Hello.
+This is a text file.
+open() is used to open a file.
+Thank you.
+We have added more contents to the file.

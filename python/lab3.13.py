@@ -1,0 +1,6 @@
+f= open(r'C:\Users\User\Desktop\python\test.txt','r')
+copy= open(r'C:\Users\User\Desktop\python\copy.txt','w')
+copy.write(f.read())
+copy.close()
+copy= open(r'C:\Users\User\Desktop\python\copy.txt','r')
+print(copy.read())

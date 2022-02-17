@@ -1,0 +1,5 @@
+f= open(r'C:\Users\User\Desktop\python\test.txt','a')
+f.write("We have added more contents to the file.")
+f.close()
+f= open(r'C:\Users\User\Desktop\python\test.txt')
+print(f.read())
